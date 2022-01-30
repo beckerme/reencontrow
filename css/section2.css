@@ -1,0 +1,39 @@
+.section-2{
+    margin-top: 125px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.title-section-2{
+    color: #fff;
+    font-weight: 700;
+    font-size: 45px;
+}
+
+.cards-section-2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 170px;
+}
+
+.cards-section-2 div{
+    width: 290px;
+    height: 290px;
+    background-color: #2C2F37;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 26px;
+    color: #fff;
+    font-weight: 700;
+}
+
+.fa-size{
+    font-size: 85px;
+    color: #fff;
+    margin-bottom: 31px;
+}

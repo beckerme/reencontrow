@@ -1,0 +1,23 @@
+.footer{
+    margin-top: 200px;
+    text-align: center;
+}
+
+.redes{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 26px;
+}
+
+.redes a i{
+    margin-top: 40px;
+    margin-bottom: 100px;
+    color: #fff;
+    font-size: 45px;
+}
+
+.fa-redes:hover{
+    color: #7f7f80;
+    transition: .6s;
+}

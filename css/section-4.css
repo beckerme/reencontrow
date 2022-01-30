@@ -1,0 +1,38 @@
+.section-4{
+    margin-top: 300px;
+}
+
+.section-4 h2{
+    color: #fff;
+    font-size: 35px;
+    text-align: center;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    margin-top: 74px;
+}
+
+.form input{
+    width: 609px;
+    height: 61px;
+    margin-bottom: 33px;
+    padding: 10px;
+}
+
+.form a{
+    display: inline-block;
+    background: #1A7993;
+    padding: 25px 50px;
+    color: #fff;
+    font-size: 25px;
+}
+
+.form a:hover{
+    background-color: #fff;
+    color: #1A7993;
+    transition: .5s;
+}
